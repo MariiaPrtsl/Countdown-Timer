@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://MariiaPrtsl.github.io/Countdown-Timer/static/css/main.76bbae4c.css",
+    "main.js": "https://MariiaPrtsl.github.io/Countdown-Timer/static/js/main.88ca0566.js",
+    "index.html": "https://MariiaPrtsl.github.io/Countdown-Timer/index.html",
+    "main.76bbae4c.css.map": "https://MariiaPrtsl.github.io/Countdown-Timer/static/css/main.76bbae4c.css.map",
+    "main.88ca0566.js.map": "https://MariiaPrtsl.github.io/Countdown-Timer/static/js/main.88ca0566.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.76bbae4c.css",
+    "static/js/main.88ca0566.js"
+  ]
+}
